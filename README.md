@@ -10,7 +10,7 @@
 
 
 # CODE PROGRAM WEBSITE DINAMIS
-![image](https://github.com/user-attachments/assets/cae0d7b8-f1aa-4865-b57f-47cdb75b1c6e)
+![alt text](https://github.com/Habibsuprayoga325/UTS_Pemrogramanweb1/blob/main/home.png?raw=true)
 ```
 <!doctype html>
 <html lang="en">
