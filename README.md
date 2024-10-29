@@ -175,21 +175,21 @@
 
 </html>
 ```
-![image](https://github.com/user-attachments/assets/9a5b8d9e-7f33-4e2b-8aed-95c07bafcbbf)
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/About.png?raw=true)
 ```
 <h1>about</h1>
 ```
-![image](https://github.com/user-attachments/assets/2151dd93-39db-4cc5-af5a-1c1492f2680a)
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/Contact.png?raw=true)
 ```
 <h1>Contact</h1>
 ```
-![image](https://github.com/user-attachments/assets/d20912c2-d745-433d-82de-9291e6e1a0c0)
-![image](https://github.com/user-attachments/assets/774ff0a7-6d20-40d7-a9ff-cd6c19e07d72)
-![image](https://github.com/user-attachments/assets/383d4c8b-a6e2-4e7c-b74a-04bea87ed8e8)
-![image](https://github.com/user-attachments/assets/3b51d824-5d68-448c-aad5-e7be10f55b22)
-![image](https://github.com/user-attachments/assets/1ebdda68-2262-4356-9599-d940fff17ce3)
-![image](https://github.com/user-attachments/assets/a0b88206-1c5c-43db-aee8-7b0f7607c25e)
-![image](https://github.com/user-attachments/assets/3181fe68-9c46-4306-b3ba-a02606bdaaa1)
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/Belajar.png?raw=true)
+
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/Database1.png?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/Database2.png?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/Database3.png?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/Database4.png?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/UTS_PemrogramanWeb1/blob/main/Database5.png?raw=true)
 ```
 <!DOCTYPE html>
 <html lang="en">
